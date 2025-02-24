@@ -8,11 +8,7 @@ This project involves developing an IPO Web Application and REST API for **Blues
 - [Objective](#objective)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Development Guidelines](#development-guidelines)
-- [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Submission Guidelines](#submission-guidelines)
-- [Resources](#resources)
 - [Team](#team)
 
 ## Objective
