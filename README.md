@@ -50,17 +50,6 @@ The goal of this project is to develop:
 - User-friendly UI with React.js & Bootstrap 5
 - Downloadable IPO-related PDFs
 
-## Development Guidelines
-- Follow high-quality, industry-standard coding practices.
-- Test features regularly to ensure functionality.
-- Implement security measures to protect data integrity.
-- Use **Nomon** for task assignment and tracking.
-
-## Prerequisites
-Developers should be familiar with:
-- **Stock Market Basics** → [Stock Market Introduction](https://youtu.be/Zt6bVL39b9M)
-- **IPO Concepts** → [What is IPO?](https://youtu.be/gWrR5qPEmWE)
-
 ## Getting Started
 1. Clone the repository:
    ```sh
@@ -87,17 +76,7 @@ Developers should be familiar with:
    cd frontend
    npm start
    ```
-
-## Submission Guidelines
-- Do **not** commit buggy or error-prone code.
-- Test your code locally before pushing.
-- Use **main** branch for final submissions.
-
-## Resources
-- **UI/UX Design**: [Figma Prototype](https://www.figma.com/design/Y78Wmi24Jdo6PrAFiHySkg)
-- **System Design**: [Figma System Design](https://www.figma.com/board/g9bjreevYNJkfMuwRacyaP)
-- **Project Assets** (Logos, SVGs, PNGs): [Google Drive Link](https://drive.google.com/drive/folders/1yH9Y_mIqqEkZXtzhqHSuFtEwFOr8BXH5?usp=drive_link)
-
+   
 ## Team
 | Name                 | Role         | Email                           |
 |----------------------|-------------|---------------------------------|
@@ -110,8 +89,7 @@ Developers should be familiar with:
 | Sunny Ramnagina Yadav | Developer    | sunnyyadav.developer@gmail.com |
 | Yugant Chaudhury   | Developer    | yugant.work@gmail.com          |
 
-## Contact
-For any queries, reach out to:  
+## Company  
 📧 **hello@bluestock.in**  
 🌐 **[Bluestock Fintech Website](http://www.bluestock.in)**
 
